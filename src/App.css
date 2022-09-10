@@ -1,0 +1,8 @@
+.pomodoro-app{
+  background: #7462E0;
+  height: 100vh;
+}
+.pomodoro__container{
+  width: 700px;
+  margin: 0 auto;
+}

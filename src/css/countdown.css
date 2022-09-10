@@ -1,0 +1,27 @@
+.countdown-timer{
+    padding: 50px 50px;
+    background: rgba(255, 255, 255, 0.3);
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.countdown-timer .countdown-timer__timer{
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 150px;
+}
+.countdown-timer .countdown-timer__button-box{
+    margin-top: 50px;
+
+}
+.countdown-timer .countdown-timer__button-box .countdown-timer__control{
+    height: 60px;
+    width: 200px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 200;
+}
